@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cVKcP36Fr4sHoFKCxQOSJdFRSgLFKKX10/RIS/TJ9qk9HoZFpWOCunSLf+PbKX/WrUpruEgG06G9dNmJU76pFg==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\Brokerzin\\BrokerMQTT\\BrokerMQTT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\devmo\\.nuget\\packages\\mqttnet\\3.1.2\\mqttnet.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

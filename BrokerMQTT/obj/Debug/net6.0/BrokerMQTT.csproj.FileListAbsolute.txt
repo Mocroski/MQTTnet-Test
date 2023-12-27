@@ -1,0 +1,17 @@
+D:\Projetos\Brokerzin\BrokerMQTT\bin\Debug\net6.0\BrokerMQTT.exe
+D:\Projetos\Brokerzin\BrokerMQTT\bin\Debug\net6.0\BrokerMQTT.deps.json
+D:\Projetos\Brokerzin\BrokerMQTT\bin\Debug\net6.0\BrokerMQTT.runtimeconfig.json
+D:\Projetos\Brokerzin\BrokerMQTT\bin\Debug\net6.0\BrokerMQTT.dll
+D:\Projetos\Brokerzin\BrokerMQTT\bin\Debug\net6.0\BrokerMQTT.pdb
+D:\Projetos\Brokerzin\BrokerMQTT\bin\Debug\net6.0\MQTTnet.dll
+D:\Projetos\Brokerzin\BrokerMQTT\obj\Debug\net6.0\BrokerMQTT.csproj.AssemblyReference.cache
+D:\Projetos\Brokerzin\BrokerMQTT\obj\Debug\net6.0\BrokerMQTT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Brokerzin\BrokerMQTT\obj\Debug\net6.0\BrokerMQTT.AssemblyInfoInputs.cache
+D:\Projetos\Brokerzin\BrokerMQTT\obj\Debug\net6.0\BrokerMQTT.AssemblyInfo.cs
+D:\Projetos\Brokerzin\BrokerMQTT\obj\Debug\net6.0\BrokerMQTT.csproj.CoreCompileInputs.cache
+D:\Projetos\Brokerzin\BrokerMQTT\obj\Debug\net6.0\BrokerMQTT.csproj.CopyComplete
+D:\Projetos\Brokerzin\BrokerMQTT\obj\Debug\net6.0\BrokerMQTT.dll
+D:\Projetos\Brokerzin\BrokerMQTT\obj\Debug\net6.0\refint\BrokerMQTT.dll
+D:\Projetos\Brokerzin\BrokerMQTT\obj\Debug\net6.0\BrokerMQTT.pdb
+D:\Projetos\Brokerzin\BrokerMQTT\obj\Debug\net6.0\BrokerMQTT.genruntimeconfig.cache
+D:\Projetos\Brokerzin\BrokerMQTT\obj\Debug\net6.0\ref\BrokerMQTT.dll
